@@ -10,7 +10,7 @@
     "socket.io": "*"
 
   },
-  "description": "a simple chat application using socket.io functionality",
+  "description": "A simple chat application using socket.io functionality",
   "main": "app.js",
   "devDependencies": {},
   "repository": {
