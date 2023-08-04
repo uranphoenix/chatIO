@@ -1,0 +1,26 @@
+{
+  "name": "chat",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "express": "~4.16.1",
+    "socket.io": "*"
+
+  },
+  "description": "a simple chat application using socket.io functionality",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uranphoenix/chatIO.git"
+  },
+  "author": "Roman Fedianovych",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uranphoenix/chatIO/issues"
+  },
+  "homepage": "https://github.com/uranphoenix/chatIO#readme"
+}
